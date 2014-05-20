@@ -1,7 +1,7 @@
 Node Bootstrap
 ==============
 
-Bash script to bootstrap a Linux install with version 0.10.13 of Node.js  
+Bash script to bootstrap a Linux install with version 0.10.x of Node.js  
 
 
 To bootstrap Node:  
